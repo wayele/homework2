@@ -19,7 +19,7 @@ p {
 .hero {
     height: 500px;
     width: 100%;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-bottom: 25px;
     background-image: url("golden-eagle.jpg");
     background-size: 75%;
@@ -28,8 +28,7 @@ p {
 }
 
 .header {
-    position: fixed;
-    z-index: 2;
+    z-index: 1;
 }
 .intro {
     color:cyan;
@@ -56,13 +55,18 @@ img {
 
 }
 
-.form-group {
-    width:25%;
-    padding: 10px;
-    margin: 20px;
+.container {
+    width: 50%;
 }
 
 button {
     padding: 20px;
     margin: 40px;
+}
+
+.footer {
+    text-align: center;
+    font-size: small;
+    color: white;
+    background-color:black;
 }
