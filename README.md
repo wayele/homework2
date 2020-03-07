@@ -10,10 +10,10 @@ The "About Me" page describes who Wube is and includes a picture. It has bootstr
 <img src="./Aboutme.png">
 
 The "Portfolio" page has examples of recent projects that will be completed. It is currently set up with placeholder images. A bootstrap container grid layout is used to create 3 columns for that row.
-<img src="./contact.png">
+<img src="./Portfolio.png">
 
 The "Contact" page uses bootstrap forms to receive input from a visitor and uses a bootstrap button for the submittal link.
-<img src="./Portfolio.png">
+<img src="./contact.png">
 
 
 
