@@ -1,4 +1,4 @@
-# homework2
+# portfolio
 # Responsive Portfolio
 The goal of this project is to design a responsive a personal portfolio web applications that will render well on a variety of devices and window or screen sizes. This web application has an about me page, portfolio page, and a contact page.
 
