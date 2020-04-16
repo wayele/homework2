@@ -16,7 +16,7 @@ a {
 p {
     font-size: 20px;
 }
-.hero {
+/* .hero {
     height: 400px;
     width: 100%;
     margin-top: 20px;
@@ -24,8 +24,8 @@ p {
     background-image: url("golden-eagle.jpg");
     background-size: 75%;
     background-position: top;
-    z-index: -5;
-}
+    z-index: -5; */
+
 
 .header {
     z-index: 1;
@@ -69,4 +69,7 @@ button {
     font-size: small;
     color: white;
     background-color:black;
+}
+.card {
+    margin: 20px;
 }
