@@ -7,16 +7,16 @@ This web application uses html, css, and bootstrap elements for the different se
 
 # Web Application Components
 The "Wube" page is welcoming page for visitors.
-<img src="../assets/wube_scrnshot.png">
+<img src="./assets/wube_scrnshot.png">
 
 The "About Me" page describes who Wube is and includes a picture. It has bootstraps elements including a navigation bar, grid layout to make it responsive, and a footer. 
-<img src="../assets/Aboutme.png">
+<img src="./assets/Aboutme.png">
 
 The "Portfolio" page has an example of recent project and current resume.The third spot is set up with placeholder image. A bootstrap container grid layout is used to create 3 columns for that row.
-<img src="../assets/portfolio_scrnshot.png">
+<img src="./assets/portfolio_scrnshot.png">
 
 The "Contact" page uses bootstrap forms to receive input from a visitor and uses a bootstrap button for the submittal link.
-<img src="../assets/contact_scrnshot.png">
+<img src="./assets/contact_scrnshot.png">
 
 
 
