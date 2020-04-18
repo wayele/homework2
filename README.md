@@ -6,14 +6,17 @@ The goal of this project is to design a responsive a personal portfolio web appl
 This web application uses html, css, and bootstrap elements for the different sections.  An additional css styling page was used on top of bootstrap styling.
 
 # Web Application Components
-The "About Me" page describes who Wube is and includes a picture. It has bootstraps elements including a navigation bar, grid layout to make it responsive, and a footer. 
-<img src="./Aboutme.png">
+The "Wube" page is welcoming page for visitors.
+<img src="..assets/wube_scrnshot.png">
 
-The "Portfolio" page has examples of recent projects that will be completed. It is currently set up with placeholder images. A bootstrap container grid layout is used to create 3 columns for that row.
-<img src="./Portfolio.png">
+The "About Me" page describes who Wube is and includes a picture. It has bootstraps elements including a navigation bar, grid layout to make it responsive, and a footer. 
+<img src="..assets/Aboutme.png">
+
+The "Portfolio" page has an example of recent project and current resume.The third spot is set up with placeholder image. A bootstrap container grid layout is used to create 3 columns for that row.
+<img src="..assets/portfolio_scrnshot.png">
 
 The "Contact" page uses bootstrap forms to receive input from a visitor and uses a bootstrap button for the submittal link.
-<img src="./contact.png">
+<img src="..assets/contact_scrnshot.png">
 
 
 
