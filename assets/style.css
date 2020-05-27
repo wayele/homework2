@@ -40,7 +40,7 @@ p {
     right: 250px;
 }
 
-img {
+.portrait {
     float: left;
     width: 100%;
     position: relative;
@@ -48,6 +48,10 @@ img {
     padding-right: 10px;
 }
 
+img {
+    height: 400;
+    width: 350px;
+}
 .about {
     padding: 10px;
     position: relative;
