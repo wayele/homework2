@@ -6,26 +6,38 @@
 
 body {
     background-color: #d9dcd6;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+    color: #222;
 }
-
+.carousel-inner, img {
+    width: 80%;
+    height: 60%;
+    justify-items: center;
+    margin-left: 75px;
+}
+/* .carousel-caption {
+    position: absolute;
+    top: 80%;
+    transform: translateY(-50%);
+    background-color: black;
+    color: whitesmoke;
+    opacity: 0.5;
+} */
 a {
     color: #1a0606;
     text-decoration: none;
 }
-
+.repo {
+    text-decoration: underline;
+    font-style: italic;
+}
 p {
     font-size: 20px;
 }
-/* .hero {
-    height: 400px;
-    width: 100%;
-    margin-top: 20px;
-    margin-bottom: 25px;
-    background-image: url("golden-eagle.jpg");
-    background-size: 75%;
-    background-position: top;
-    z-index: -5; */
-
 
 .header {
     z-index: 1;
@@ -48,10 +60,10 @@ p {
     padding-right: 10px;
 }
 
-img {
+/* img {
     height: 400;
     width: 350px;
-}
+} */
 .about {
     padding: 10px;
     position: relative;
